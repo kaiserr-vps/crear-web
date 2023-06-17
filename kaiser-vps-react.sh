@@ -94,7 +94,7 @@ function inputkey() {
         echo -e ""
         echo -e ${yellow}"# Verificando Key # : ${yellow} #¡Key Correcta#! -- INICIANDO INSTALACION"
         echo -e ""
-        wget https://raw.githubusercontent.com/kaiserr-vps/crear-web/main/install.sh; chmod +x install.sh; ./install.sh
+        wget https://raw.githubusercontent.com/kaiserr-vps/crear-web/main/install-react.sh; chmod +x install-react.sh; ./install-react.sh
     else
         echo -e ""
         echo -e ${yellow}"# Verificando Key # : ${red}#¡Key Invalida#! -- CONTACTE A @K41S3RR"
